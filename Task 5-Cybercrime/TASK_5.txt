@@ -1,0 +1,5 @@
+Task 5: Cybercrime Awareness & Prevention
+Topic: UPI/Online Payment Fraud 
+Description: For the final task, I conducted a case study on UPI fraud, specifically focusing on "Reverse QR" scams where victims are tricked into entering their PIN to receive money. I also compiled an 8-point "Stay Safe Online" checklist, which includes the National Cyber Crime Helpline number (1930) and the official reporting portal link.
+Reflection: The most surprising aspect of this research was learning that many cybercrimes succeed through "social engineering" rather than just technical hacking. It is alarming how scammers create a sense of urgency to bypass a person's common sense. Because of this study, I have changed my personal habits regarding digital payments; I now understand that a UPI PIN is strictly for sending money, never for receiving it. I feel more confident in my ability to protect myself and advise my peers on avoiding these common traps.
+
