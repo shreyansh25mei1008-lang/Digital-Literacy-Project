@@ -1,0 +1,5 @@
+Task 3: Exploring Coding & Collaboration
+Platforms Used: HackerRank and Google Workspace 
+Description: To demonstrate both technical and collaborative proficiency, I completed a beginner-level challenge on HackerRank using Python. Additionally, I designed a 5-question "Digital Literacy Awareness Quiz" using Google Forms. The quiz includes multiple-choice questions on security and a short-answer section to gather peer feedback on digital tool usage.
+Reflection: Completing the HackerRank challenge gave me a practical look at the environment used during technical interviews and internship screenings. Building the Google Form was equally important because it demonstrated how cloud tools can be used to gather and analyze data from a large group efficiently. These platforms are essential for my academic career, especially for group projects where real-time collaboration is necessary to stay organized. I learned that being digitally literate is largely about choosing the right platform for the specific task at hand.
+
