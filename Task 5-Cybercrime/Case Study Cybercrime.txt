@@ -1,0 +1,11 @@
+Case Study: The "Reverse QR" Marketplace Scam
+Type of Crime: UPI Payment Federation / QR Code Fraud 
+The Scenario: Rahul, a first-year college student, decided to sell his old semester textbooks on a popular online second-hand marketplace. Within an hour of posting the ad, he was contacted by a "buyer" who seemed very eager. The buyer claimed to be busy and offered to pay the full amount immediately via UPI to "fix the deal," saying he would send a courier to pick up the books later.
+How it Happened (Step-by-Step):
+1. The Hook: The scammer gains trust by not haggling over the price and insisting on immediate digital payment.
+2. The Deception: Instead of asking for Rahul’s UPI ID to send money, the scammer sent a QR code over WhatsApp. He told Rahul, "I have sent a payment request; just scan this code and enter your PIN to receive the money into your bank account".
+3. The Theft: In the rush of the moment, Rahul forgot a fundamental rule of UPI: You never need to enter a PIN to receive money. As soon as he scanned the code and entered his secure PIN, the transaction authorized a withdrawal instead of a deposit.
+4. The Consequence: Within seconds, ?3,000 was debited from Rahul’s account. When he tried to call the buyer back, the number was already blocked.
+Target Audience: This crime typically targets young adults and students who are frequent users of digital payment apps but may not fully understand the technical difference between a "pay" request and a "collect" request.
+Consequences: Beyond the immediate financial loss, victims often feel a sense of embarrassment and "digital anxiety," making them hesitant to use helpful fintech tools in the future.
+
