@@ -1,0 +1,16 @@
+Stay Safe Online: A Guide for Students
+Being a "Digital Ambassador" means staying one step ahead of scammers. Use this checklist to protect your data and your money:
+1. The Golden Rule of UPI: Always remember that you never need to enter your UPI PIN or scan a QR code to receive money. If someone asks you to "authorize" a payment coming into your account, it is a scam.
+2. Verify the Source: Before clicking any links in an SMS or WhatsApp message (like those claiming your electricity will be cut off or you’ve won a lucky draw), check the official app or website instead.
+3. Use Multi-Factor Authentication (MFA): Turn on 2-factor authentication for your Gmail, Instagram, and LinkedIn accounts. This adds a "second lock" that hackers can't bypass with just your password.
+4. Secure Your UPI App: Set a strong biometric lock (fingerprint or Face ID) or a separate pattern for your payment apps like GPay, PhonePe, or Paytm to prevent unauthorized access if your phone is misplaced.
+5. Check for "HTTPS": Never enter personal information or login credentials on a website unless the URL starts with https:// and has a small padlock icon in the browser bar.
+6. Public Wi-Fi Hygiene: Avoid logging into your bank account or making purchases while connected to free public Wi-Fi at cafes or railway stations, as these networks are often unencrypted.
+7. Privacy Settings Review: Once every few months, check your social media privacy settings. Ensure your phone number and email address are not visible to the public.
+8. Vanish the "Too Good to Be True" Offers: If an unknown person on a marketplace offers to pay the full price of an item without seeing it first, stop the conversation immediately.
+
+How to Report a Crime
+If you or someone you know falls victim to a digital scam, don't stay silent. Use the official Indian government channels immediately:
+* National Cyber Crime Portal: Visit [suspicious link removed] to file a formal complaint.
+* 24/7 Helpline: Call 1930 to report financial fraud instantly and potentially freeze the stolen funds before the scammer withdraws them.
+
