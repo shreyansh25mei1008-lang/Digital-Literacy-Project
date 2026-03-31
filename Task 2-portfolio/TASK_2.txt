@@ -1,0 +1,5 @@
+Task 2: Student Digital Portfolio
+Platforms Chosen: GitHub, LinkedIn, and Kaggle 
+Description: In this task, I focused on building a professional identity that reflects my academic journey. On GitHub, I initialized a profile README containing my branch, year, and my primary learning goals. I also optimized my LinkedIn profile by detailing my current degree and expected graduation date at VIT Bhopal. Finally, I set up a Kaggle account to prepare for future data science and machine learning projects.
+Reflection: Setting up these platforms made me realize that a student's professional presence is now a permanent digital footprint. While LinkedIn is essential for networking and career opportunities, GitHub serves as an active gallery of my coding progress. Over the next four years, I plan to use GitHub daily to document my technical projects and LinkedIn to connect with mentors and industry experts. Seeing my professional identity take shape online makes the transition from student to professional feel much more tangible.
+
